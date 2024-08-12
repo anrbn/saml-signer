@@ -1,0 +1,9 @@
+{
+    "UserPrincipalName": "johnd@example.com",
+    "TenantID": "tenant-id",
+    "ObjectID": "user-objectid",
+    "DisplayName": "John Doe",
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Email": "johnd2@example.com"
+}
