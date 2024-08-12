@@ -6,7 +6,7 @@ This project provides functionality to sign SAML responses, offering options to 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/anrbn/saml-signer
+   git clone git@github.com:anrbn/saml-signer.git
    cd saml-signer
    ```
 
