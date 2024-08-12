@@ -62,8 +62,15 @@ This will use the values from the JSON file instead of prompting for user input.
 
 2. Use an input file:
    ```
-   python main.py key.pem cert.pem --sign-message --input-file values.json
+   python main.py key.pem cert.pem --sign-message --input-file values.json\
    ```
+   
+## TODO
+- How to find the Response in Burpsuite?
+- Mapping JSON field to Entra ID User Properties
+- Add Assertion Signing
+- Add Both Assertion and Message Signing
+- What about Encrypted Response?
 
 ## License
 
