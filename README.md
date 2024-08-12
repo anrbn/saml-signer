@@ -1,4 +1,4 @@
-# SAML Signer Project
+# SAML Signer
 
 This project provides functionality to sign SAML responses, offering options to sign the assertion, the message, or both.
 
