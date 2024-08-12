@@ -20,7 +20,7 @@ This project provides functionality to sign SAML responses, offering options to 
 Run the main script with the following syntax:
 
 ```
-python main.py <key_path> <cert_path> [--sign-message] [--input-file <input_file_path>]
+python main.py <key_path> <cert_path> --sign-message [--input-file <input_file_path>]
 ```
 
 Arguments:
